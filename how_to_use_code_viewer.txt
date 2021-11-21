@@ -1,0 +1,6 @@
+Open "run_viewer.bat" to run the code viewer.
+To view a different game's code, export the code using the bundled UndertaleModTool and script and then replace the "decompiled" folder with the new "decompiled" folder.
+--------------------------------------------------------------------------------------------------------------------
+This code viewer is originally by xKeeper, ported for personal use on Windows computers by Grossley. 
+Version 1.0
+Published 12-14-2019
